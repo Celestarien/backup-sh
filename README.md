@@ -1,6 +1,6 @@
 # Projet-UF-Sauvegarde
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction du sujet
@@ -138,6 +138,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Celestarien"><img src="https://avatars2.githubusercontent.com/u/43401854?v=4" width="100px;" alt=""/><br /><sub><b>Celestarien</b></sub></a><br /><a href="#design-Celestarien" title="Design">🎨</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=Celestarien" title="Tests">⚠️</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=Celestarien" title="Code">💻</a></td>
+    <td align="center"><a href="https://thibaultfeugere.fr"><img src="https://avatars1.githubusercontent.com/u/32579584?v=4" width="100px;" alt=""/><br /><sub><b>Thibault Feugère</b></sub></a><br /><a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Tests">⚠️</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Code">💻</a></td>
   </tr>
 </table>
 
