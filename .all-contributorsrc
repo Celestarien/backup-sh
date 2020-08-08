@@ -15,6 +15,16 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "ThibaultFeugere",
+      "name": "Thibault Feugère",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32579584?v=4",
+      "profile": "https://thibaultfeugere.fr",
+      "contributions": [
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
