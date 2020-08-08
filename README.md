@@ -137,7 +137,7 @@ Vous pouvez faire des tests si vous le souhaitez mais pour le bon fonctionnement
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Celestarien"><img src="https://avatars2.githubusercontent.com/u/43401854?v=4" width="100px;" alt=""/><br /><sub><b>Celestarien</b></sub></a><br /><a href="#design-Celestarien" title="Design">🎨</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=Celestarien" title="Tests">⚠️</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=Celestarien" title="Code">💻</a></td>
-    <td align="center"><a href="https://thibaultfeugere.fr"><img src="https://avatars1.githubusercontent.com/u/32579584?v=4" width="100px;" alt=""/><br /><sub><b>Thibault Feugère</b></sub></a><br /><a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Tests">⚠️</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Code">💻</a><a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://thibaultfeugere.fr"><img src="https://avatars1.githubusercontent.com/u/32579584?v=4" width="100px;" alt=""/><br /><sub><b>Thibault Feugère</b></sub></a><br /><a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Tests">⚠️</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Code">💻</a> <a href="https://github.com/Celestarien/backup-sh/commits?author=ThibaultFeugere" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
